@@ -1,7 +1,7 @@
 ### Hello, World!
 Omid here.
 
-I'm a tech/music/art/... enthusiast working as a product marketing manager with [Nito Labs](https://www.nitolabs.com). I'm contributing to realizing the company's vision of promoting ownership, authority, and utility for humans through blockchain.
+I'm a tech/finance/music/... enthusiast working as a product marketing manager at [Nito Labs](https://nitolabs.com). I'm contributing to realizing the company's vision of promoting utility, inclusion, and ownership for humans through blockchain. I'm also working as the product manager at [Fluxity](https://fluxity.finance), a token streaming solution on Stellar. I also contribute to the backend of Fluxity.
 
 ⏳ I transitioned from mechanical engineering to ML and data analytics before focusing on product management and marketing. It was hard and bumpy, but I stayed positive and loved every bit of it.
 
