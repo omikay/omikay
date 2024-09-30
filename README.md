@@ -1,18 +1,21 @@
 ### Hello, World!
 Omid here.
 
-I'm a tech/finance/music/... enthusiast working as a product marketing manager at [Nito Labs](https://nitolabs.com). I'm contributing to realizing the company's vision of promoting utility, inclusion, and ownership for humans through blockchain. I'm also working as the product manager at [Fluxity](https://fluxity.finance), a token streaming solution on Stellar. I also contribute to the backend of Fluxity.
+I'm a product person striving to make life easier and more pleasant for people by understanding their pain points and building user-centric solutions. 
 
-⏳ I transitioned from mechanical engineering to ML and data analytics before focusing on product management and marketing. It was hard and bumpy, but I stayed positive and loved every bit of it.
+In my latest role as a **Product Manager** at **[Nito Labs](https://nitolabs.com)**, I managed a cross-functional team of product designers and developers to build a mobile-first, multifunctional, self-custodial digital wallet, **[Pino](https://pino.xyz/)**, enabling interaction with top decentralized finance (DeFi) protocols with maximum accessibility and efficiency. 
 
-🔭 Besides my job, I’m currently working on a management platform for finding and organizing non-profit events called [Impakt](https://github.com/omikay/rcdd-capstone-impakt), which started out as the capstone project for [Re:Coded](https://www.re-coded.com/)'s backend development bootcamp.
+I've also managed the development and contributed to the backend of [Fluxity](https://fluxity.finance), a token streaming solution on Stellar, enhancing payment flexibility in a way that incentivizes consistent quality work by providers and promotes demand and loyalty by consumers.
 
-🌱 I’m expanding my experience and knowledge about product management, business intelligence, and web development.
+⏳ I transitioned from mechanical engineering to ML and data analytics before focusing on product management. It was hard and bumpy, but I loved every bit of it.
+
+🌱 I'm always expanding my experience and knowledge about product, business, and development to better understand what and how to build and better work with those I build with.
 
 
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=omikay&show_icons=true&theme=tokyonight" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omikay&layout=donut&langs_count=8&card_width=320" />
 
 ### Tech Stack
+![Confluence](
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
