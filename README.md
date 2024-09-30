@@ -15,9 +15,10 @@ I've also managed the development and contributed to the backend of [Fluxity](ht
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=omikay&show_icons=true&theme=tokyonight" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omikay&layout=donut&langs_count=8&card_width=320" />
 
 ### Tech Stack
-![Confluence](
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
