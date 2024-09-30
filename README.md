@@ -5,7 +5,7 @@ I'm a product person striving to make life easier and more pleasant for people b
 
 In my latest role as a **Product Manager** at **[Nito Labs](https://nitolabs.com)**, I managed a cross-functional team of product designers and developers to build a mobile-first, multifunctional, self-custodial digital wallet, **[Pino](https://pino.xyz/)**, enabling interaction with top decentralized finance (DeFi) protocols with maximum accessibility and efficiency. 
 
-I've also managed the development and contributed to the backend of [Fluxity](https://fluxity.finance), a token streaming solution on Stellar, enhancing payment flexibility in a way that incentivizes consistent quality work by providers and promotes demand and loyalty by consumers.
+I've also managed the development and contributed to the backend of **[Fluxity](https://fluxity.finance)**, a token streaming solution on Stellar, enhancing payment flexibility in a way that incentivizes consistent quality work by providers and promotes demand and loyalty by consumers.
 
 ⏳ I transitioned from mechanical engineering to ML and data analytics before focusing on product management. It was hard and bumpy, but I loved every bit of it.
 
@@ -18,7 +18,7 @@ I've also managed the development and contributed to the backend of [Fluxity](ht
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,8 +37,6 @@ I've also managed the development and contributed to the backend of [Fluxity](ht
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Reach out to me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-kayhani/)
