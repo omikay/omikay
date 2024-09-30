@@ -7,7 +7,7 @@ In my latest role as a **Product Manager** at **[Nito Labs](https://nitolabs.com
 
 I've also managed the development and contributed to the backend of **[Fluxity](https://fluxity.finance)**, a token streaming solution on Stellar, enhancing payment flexibility in a way that incentivizes consistent quality work by providers and promotes demand and loyalty by consumers.
 
-⏳ I transitioned from mechanical engineering to ML and data analytics before focusing on product management. It was hard and bumpy, but I loved every bit of it.
+⏳ Product management was something I've had my eyes on since transitioning from mechanical engineering to ML and data analytics. It was hard and bumpy, but I loved every bit of it.
 
 🌱 I'm always expanding my experience and knowledge about product, business, and development to better understand what and how to build and better work with those I build with.
 
