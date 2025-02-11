@@ -5,7 +5,7 @@ I'm a product person striving to make life easier and more pleasant for people b
 
 I'm dedicated to empowering industries, starting from water treatment, with AI, that's why I'm building **[Clewas](https://www.clewas.com)** to help water treatment facilities running UF and RO membranes save costs and boost production.
 
-In my latest role as a **Product Manager** at **[Nito Labs](https://nitolabs.com)**, I managed a cross-functional team of product designers and developers to build a mobile-first, multifunctional, self-custodial digital wallet, **[Pino](https://pino.xyz/)**, enabling interaction with top decentralized finance (DeFi) protocols with maximum accessibility and efficiency. 
+In my role as a **Product Manager** at **[Nito Labs](https://nitolabs.com)**, I managed a cross-functional team of product designers and developers to build a mobile-first, multifunctional, self-custodial digital wallet, **[Pino](https://pino.xyz/)**, enabling interaction with top decentralized finance (DeFi) protocols with maximum accessibility and efficiency. 
 
 I've also managed the development and contributed to the backend of **[Fluxity](https://fluxity.finance)**, a token streaming solution on Stellar, enhancing payment flexibility in a way that incentivizes consistent quality work by providers and promotes demand and loyalty by consumers.
 
