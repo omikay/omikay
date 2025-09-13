@@ -3,7 +3,7 @@ Omid here.
 
 I'm a product person striving to make life easier and more pleasant for people by understanding their pain points and building user-centric solutions.
 
-I'm dedicated to empowering industries, starting from water treatment, with AI, that's why I'm building **[Clewas](https://www.clewas.com)** to help water treatment facilities running UF and RO membranes save costs and boost production.
+I'm dedicated to empowering industries, starting with water treatment, through the use of AI. That's why I'm building **[Abano](https://www.abano.tech)** to help desalination facilities run more efficiently with lower costs and environmental footprint.
 
 In my role as a **Product Manager** at **[Nito Labs](https://nitolabs.com)**, I managed a cross-functional team of product designers and developers to build a mobile-first, multifunctional, self-custodial digital wallet, **[Pino](https://pino.xyz/)**, enabling interaction with top decentralized finance (DeFi) protocols with maximum accessibility and efficiency. 
 
